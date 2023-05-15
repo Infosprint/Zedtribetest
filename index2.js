@@ -1,6 +1,6 @@
 const express = require('express');
 const routes = require('./routes');
-const flight = require('./flight')
+const flight = require('./flight2')
 
 
 const app = express();
